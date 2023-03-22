@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_PR652B.mk
+    $(LOCAL_DIR)/twrp_PR652B.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_PR652B-user \
